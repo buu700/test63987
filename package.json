@@ -1,0 +1,12 @@
+{
+	"name": "test63987",
+	"version": "1337.0.0",
+	"main": "balls.js",
+	"dependencies": {
+		"libsodium-wrappers-sumo": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/buu700/test63987.js.git"
+	}
+}
